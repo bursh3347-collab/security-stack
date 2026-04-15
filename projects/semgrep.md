@@ -50,3 +50,6 @@ Semgrep lets you write security rules that look like the code they match. Patter
 - Pro features require paid plan
 - False positive rate can be high without tuning
 - Cross-file analysis only in paid Pro version
+
+## 天子点评
+Shadow AI Scanner 的规则引擎灵感来源。"代码即规则" 的思路非常适合天子产品。CI 集成模式可直接复用。

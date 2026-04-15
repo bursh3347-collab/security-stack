@@ -4,7 +4,21 @@
 
 Extracted best practices, architecture patterns, and deep analysis from 7 high-star security tools on GitHub.
 
-## 📈 What's Inside
+## 📈 本分类飙升榜（最近更新：2026-04-15）
+
+| 排名 | 项目 | 总Stars | 周增 | 趋势 |
+|------|------|---------|------|------|
+| 1 | OWASP ZAP | 37k | +100 | → |
+| 2 | Vault | 32k | +80 | → |
+| 3 | Trivy | 25k | +200 | ↑ |
+| 4 | Nuclei | 23k | +300 | 🚀 |
+| 5 | Semgrep | 14.8k | +150 | ↑ |
+| 6 | Falco | 7.8k | +30 | → |
+| 7 | Snyk | N/A | N/A | → |
+
+> 🌟 Nuclei 增速最快（模板生态爆发），Trivy 和 Semgrep 稳步增长。Shadow AI 安全领域正在催生新一波工具。
+
+## 📋 What's Inside
 
 ### Projects Analyzed (7)
 | Project | Stars | TEMC | Language | Category |
@@ -21,6 +35,7 @@ Extracted best practices, architecture patterns, and deep analysis from 7 high-s
 - [📊 Security Tools Comparison](comparison.md) — Category matrix + feature comparison
 - [🔐 Secure Coding](best-practices/secure-coding.md) — TypeScript security patterns
 - [📦 Dependency Security](best-practices/dependency-security.md) — Supply chain protection
+- [🗺️ Technology Roadmap](roadmap.md) — Trends & predictions for security tools
 
 ## 🎯 Minimum Viable Security for Micro SaaS
 
@@ -45,6 +60,8 @@ security-stack/
 ├── best-practices/        ← Cross-project security patterns
 ├── code/                  ← Extractable code (coming soon)
 ├── comparison.md          ← Horizontal comparison tables
+├── roadmap.md             ← Technology trends & predictions
+├── CONTRIBUTING.md        ← How to contribute
 └── SOURCES.md             ← All source links + licenses
 ```
 

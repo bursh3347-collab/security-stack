@@ -36,3 +36,6 @@ Snyk bridges the gap between development and security. It finds vulnerabilities 
 - Expensive for teams ($52/dev/month)
 - Vendor lock-in risk
 - Open alternatives (Trivy + Semgrep) cover most use cases
+
+## 天子点评
+$7.4B 估值证明开发者安全是大市场。但天子不用闭源平台——Trivy + Semgrep 开源组合足够。关注其商业模式作为 SaaS 定价参考。

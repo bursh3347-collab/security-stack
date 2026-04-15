@@ -49,3 +49,6 @@ Nuclei uses YAML templates to define vulnerability checks. 9,000+ community temp
 - Bug bounty-focused, less enterprise polish
 - Template quality varies widely
 - Can trigger IDS/WAF alerts
+
+## 天子点评
+YAML 模板架构是天子 Shadow AI Scanner 的核心参考。9000+ 社区模板证明模板驱动扫描器有强大的生态飞轮。MIT 协议完美。

@@ -49,3 +49,6 @@ OWASP ZAP is a free, open-source DAST (Dynamic Application Security Testing) too
 - False positive management required
 - Modern APIs need additional configuration
 - Not TypeScript-native
+
+## 天子点评
+产品上线后的安全测试利器。DAST 领域无可替代。产品 MVP 完成后用 ZAP 做一次全扫描，成本为零。

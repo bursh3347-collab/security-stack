@@ -40,3 +40,6 @@ Vault centralizes secret management for your entire infrastructure. Dynamic secr
 - Cloud providers have simpler alternatives (AWS Secrets Manager, Vercel env vars)
 - Self-hosted Vault requires HA setup
 - Overkill for .env file + Vercel secrets
+
+## 天子点评
+密钥管理天花板，但 BUSL 协议 + 复杂度让一人公司望而却步。Vercel 环境变量 + Supabase RLS 已经够用。了解架构即可。

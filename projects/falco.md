@@ -37,3 +37,6 @@ Falco monitors system calls in real-time to detect suspicious behavior: shell sp
 - eBPF requires Linux kernel ≥ 5.8
 - Overkill for Vercel-deployed Micro SaaS
 - Only makes sense at container orchestration scale
+
+## 天子点评
+运行时安全检测的技术标杆，eBPF 思路很前沿。但绑定 K8s/容器，一人公司 serverless 架构用不上。纯学习价值。

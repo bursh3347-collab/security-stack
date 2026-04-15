@@ -50,3 +50,6 @@ Trivy is the Swiss Army knife of vulnerability scanning. One tool scans containe
 - Go codebase, not extensible for TypeScript developers
 - Vulnerability DB can produce false positives
 - Overhead for small projects
+
+## 天子点评
+多目标扫描架构是 Shadow AI Scanner 的参考模板。"一个工具扫所有" 的产品理念值得学习。Apache-2.0 协议友好。
